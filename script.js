@@ -1,49 +1,57 @@
 const food=[
     {
-        name:"Haşhaşli Lokum Tarifi",
-        image:"./img/roll.jpeg",
-        recipe: "3 cups - food powder",
-        link:"https://yemek.com/yoresel-yemek-tarifleri/"
+        name:"Sushi",
+        image:"./img/sushi.jpg",
+        recipe: "Sushi Rice, Nori (Seaweed), Fillings",
+        link:"https://peasandcrayons.com/2012/10/homemade-sushi-tips-tricks-and-toppings.html"
     },
     {
-        name:"Elmali Top Tarifi",
+        name:"Boba",
         image:"./img/towercho.jpeg",
-        link:"https://yemek.com/cikolatali-pratik-tatli-tarifleri/"
+        recipe: "",
+        link:""
     },
     {
-        name:"Çikolata Kapli Çilek",
-        image:"./img/strawcho.jpeg",
-        link:"https://yemek.com/cikolatali-pratik-tatli-tarifleri/"
+        name:"Frozen Yogurt",
+        image:"./img/froyo.jpg",
+        recipe: "Yogurt, Milk, Frozen Berries, Sugar",
+        link:"https://www.dessertnowdinnerlater.com/triple-berry-frozen-yogurt/"
     },
     {
-        name:"Adana Kebap",
-        image:"./img/meat.jpeg",
-        link:"https://yemek.com/tarif/adana-kebap/"
+        name:"Kasakhstan Dumplings",
+        image:"./img/dupkas.jpg",
+        recipe: "Flour, Salt, Egg, Water, Beef, Onions, Cumin, Pepper",
+        link:"https://www.whats4eats.com/dumplings/manti-dumplings-recipe"
     },
     {
-        name:"Patatesli Börek",
-        image:"./img/rllsalt.jpeg",
-        link:"https://yemek.com/tarif/patatesli-borek/"
+        name:"Coconut Macaroons",
+        image:"./img/como.jpg",
+        recipe: "Shredded Coconur, Flour, Sugar, Salt, Egg, Chocolate, Coconut Extract",
+        link:"https://www.cookingclassy.com/coconut-macaroons/"
     },
     {
-        name:"Şekerpare",
-        image:"./img/ballsweet.jpeg",
-        link:"https://yemek.com/tarif/sekerpare/"
+        name:"Creme Brulee",
+        image:"./img/.jpeg",
+        recipe: "",
+        link:""
     },
     {
-        name:"Ev Usulü Pizza",
-        image:"./img/pizza.jpeg",
-        link:"https://yemek.com/tarif/ev-usulu-pizza/"
+        name:"Double Chocolate Cookies",
+        image:"./img/.jpeg",
+        recipe: "",
+        link:""
     },
     {
-        name:"Frambuazli İrmik Tatlisi",
-        image:"./img/threem.jpeg",
-        link:"https://yemek.com/meyveli-sutlu-tatli-tarifleri/"
+        name:"Fresh Fruit Popsicles",
+        image:"./img/frpop.jpg",
+        recipe: "Any fruit you want",
+        link:"https://theviewfromgreatisland.com/whole-fruit-popsicles/"
     },
     {
-        name:"Yoğurtlu Patates",
-        image:"./img/gcups.jpeg",
-        link:"https://yemek.com/patatesli-mezeler/"
+        name:"Raspberry Lemonade",
+        image:"./img/raxlem.jpg",
+        recipe: "Water, Sugar, Raspberries, Lemon Juice",
+        link:"https://www.mybakingaddiction.com/raspberry-lemonade/"
     }
 ]
 
