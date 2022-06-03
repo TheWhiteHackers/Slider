@@ -2,6 +2,7 @@ const food=[
     {
         name:"Haşhaşli Lokum Tarifi",
         image:"./img/roll.jpeg",
+        recipe: "3 cups - food powder",
         link:"https://yemek.com/yoresel-yemek-tarifleri/"
     },
     {
@@ -52,6 +53,7 @@ function slider(e){
     document.querySelector(".card-img-top").setAttribute("src",food[e].image)
     document.querySelector(".card-title").textContent=food[e].name
     document.querySelector(".card-link").setAttribute("href",food[e].link)
+    document.querySelector(".card-text").textContent=food[e].recipe
     }
 
 
