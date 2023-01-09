@@ -1,11 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
 body{
-    background-color: #2291e0;
+    background-color: #002a48;
+    font-family: 'Montserrat', sans-serif;
 }
 .card{
     margin-top: 70px;
 }
 h4{
-    font-size: 17px;
+    font-size: 17px;;
 }
 h5{
     font-size: 25px;

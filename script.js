@@ -7,9 +7,9 @@ const food=[
     },
     {
         name:"Boba",
-        image:"./img/towercho.jpeg",
-        recipe: "",
-        link:""
+        image:"./img/bobatea.jpg",
+        recipe:"Varies but most have boba balls, tea, sugar, milk",
+        link:"https://www.ohhowcivilized.com/bubble-tea-recipes/"
     },
     {
         name:"Frozen Yogurt",
@@ -31,15 +31,15 @@ const food=[
     },
     {
         name:"Creme Brulee",
-        image:"./img/.jpeg",
-        recipe: "",
-        link:""
+        image:"./img/cb.jpg",
+        recipe:"Eggs, Heavy Whipping Cream, Sugar, Vanilla",
+        link:"https://www.dessertfortwo.com/creme-brulee/"
     },
     {
-        name:"Double Chocolate Cookies",
-        image:"./img/.jpeg",
-        recipe: "",
-        link:""
+        name:"Key Lime Pie",
+        image:"./img/keylimepi.jpg",
+        recipe:"Sweetened condensed milk, Key lime juice, Sour cream, Lime zest, Graham cracker crust",
+        link:"https://www.allrecipes.com/recipe/15880/key-lime-pie-vii/"
     },
     {
         name:"Fresh Fruit Popsicles",
